@@ -14,7 +14,7 @@ while True:
 | |_) / _ \| '__| __\___ \ / __/ _` | '_ \ 
 |  __/ (_) | |  | |_ ___) | (_| (_| | | | |
 |_|   \___/|_|   \__|____/ \___\__,_|_| |_|\033[m
-					Developed by: Márcio Dayvid (K4n4m3 in Github)
+					Developed by: Márcio Dayvid (Github: https://github.com/D4yv1dM4rc1o)
 	\033[1;94mEscolha uma opção abaixo:\033[m
 	\033[92m1 - Escanear principais portas\033[m [21, 22, 23, 25, 80, 135, 8080, 443, 3306, 3389, 156, 110]
 	\033[92m2 - Escanear uma porta\033[m
